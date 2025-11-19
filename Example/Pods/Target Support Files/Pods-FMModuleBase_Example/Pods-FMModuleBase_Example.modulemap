@@ -1,0 +1,6 @@
+framework module Pods_FMModuleBase_Example {
+  umbrella header "Pods-FMModuleBase_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
